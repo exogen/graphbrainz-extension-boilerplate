@@ -1,6 +1,6 @@
 # GraphBrainz Extension: Boilerplate
 
-A boilerplate project for making developing GraphBrainz extensions easier!
+A boilerplate project for easier development of GraphBrainz extensions!
 
 Begin developing your extension like so:
 

@@ -17,6 +17,9 @@ so:
 $ npm run start
 ```
 
+You even get automatically generated schema documentation; below are the docs
+for the included demo schema.
+
 <!-- START graphql-markdown -->
 
 ## Schema Types

@@ -2,6 +2,21 @@
 
 A boilerplate project for making developing GraphBrainz extensions easier!
 
+Begin developing your extension like so:
+
+```console
+$ git clone git@github.com:exogen/graphbrainz-extension-boilerplate.git
+$ cd graphbrainz-extension-boilerplate
+$ npm install
+```
+
+Then start changing files! You can run a demo server with your extension like
+so:
+
+```console
+$ npm run start
+```
+
 <!-- START graphql-markdown -->
 
 ## Schema Types

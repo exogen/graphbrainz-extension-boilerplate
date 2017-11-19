@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "graphbrainz": "^7.1.0"
+    "graphbrainz": "^7.3.0"
   },
   "devDependencies": {
     "graphbrainz": "^7.3.0",

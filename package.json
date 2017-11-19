@@ -13,8 +13,7 @@
     "build": "npm run build:docs",
     "build:docs": "node scripts/build-docs.js",
     "prepare": "npm run build",
-    "start": "node scripts/start.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node scripts/start.js"
   },
   "peerDependencies": {
     "graphbrainz": "^7.3.0"

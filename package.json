@@ -16,11 +16,11 @@
     "start": "node scripts/start.js"
   },
   "peerDependencies": {
-    "graphbrainz": "^7.3.0"
+    "graphbrainz": "^8.0.0"
   },
   "devDependencies": {
-    "graphbrainz": "^7.3.0",
-    "graphql": "^0.11.7",
-    "graphql-markdown": "^3.2.0"
+    "graphbrainz": "^8.0.0",
+    "graphql": "^0.13.2",
+    "graphql-markdown": "^4.0.0"
   }
 }
